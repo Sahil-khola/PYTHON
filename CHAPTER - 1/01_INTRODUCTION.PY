@@ -1,4 +1,3 @@
-print('Sahil Khola')
 # What is Python?
 # Ans : Python is a programming language that can be used to create programs that can be run on a computer. Python is a programming language that is used for creating websites and software.
 
@@ -14,3 +13,8 @@ print('Sahil Khola')
 # 3 it is free and open source.
 # 4 it is dynamic and can be used for both small and large scale projects.
 
+# who make Python?
+# Ans : Python was created by Guido van Rossum.
+
+# when was Python created?
+# Ans : Python was created in 1991 by Guido van Rossum.
