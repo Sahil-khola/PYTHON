@@ -4,8 +4,6 @@
 # Why use Python?
 # Ans : Python is a programming language that is easy to learn and use. Python is a programming language that is used for creating websites and software.
 
-# What are the benefits of using Python?
-# Ans : Python is a programming language that is easy to learn and use. Python is a programming language that is used for creating websites and software.
 
 # Feature of Python?
 # 1 Python is simple and easy to understand.
